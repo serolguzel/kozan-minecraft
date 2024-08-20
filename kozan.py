@@ -1,0 +1,16 @@
+print(4)
+print("KOZAN UĞUR GÜZEL")
+
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print(3+2)
+print("KOZAN UĞUR GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+for kozi in range(100): 
+    print(str(kozi + 1) + ": KOZAN UĞUR GÜZEL")
+print("KOZAN UÜUR GÜZEL")
+print("HAREKETLİ GÜN")
