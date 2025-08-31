@@ -20,6 +20,7 @@ print ("KOZAN UĞUR GÜZEL")
 for kozi in range(100): 
     print(str(kozi + 1) + ": KOZAN UĞUR GÜZEL")
 
+
 print("KOZAN UÜUR GÜZEL")       
 print("KOZAN UĞUR GÜZEL")    
 ("KOZAN UĞUR GÜZEL")
