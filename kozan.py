@@ -1,17 +1,18 @@
 print(4)
 print("KOZAN UĞUR GÜZEL")
-
+print("SEROL GÜZEL")          
 print("SEROL GÜZEL")
 print("KOZAN UĞUR GÜZEL")
 print("SEROL GÜZEL")
-print("SEROL GÜZEL")
+print("SEROL GÜZEL")          
+print("KOZAN UĞUR GÜZEL")
 print("KOZAN UĞUR GÜZEL")              
 print("KOZAN UĞUR GÜZEL")                             
 print("KOZAN UĞUR GÜZEL")
 print("KOZAN UĞUR GÜZEL")           
 print("KOZAN UĞUR GÜZEL ")     
 print("KOZAN UĞUR GÜZEL")
-print(3+2   )
+print(3+2)
 print("KOZAN UĞUR GÜZEL")                  
 print ("KOZAN UĞUR GÜZEL")
 print("KOZAN UĞUR GÜZEL" )                                                  
@@ -22,9 +23,188 @@ for kozi in range(100):
 
 
 print("KOZAN UÜUR GÜZEL")       
-print("KOZAN UĞUR GÜZEL")    
-("KOZAN UĞUR GÜZEL")
-print     ("KOZAN UĞUR GÜZEL")                   ("KOZAN UĞUR GÜZEL") 
+print("KOZAN UĞUR GÜZEL")
+print("KOZAN UĞUR GÜZEL")
 print("KOZAN UĞUR GÜZEL  ") 
-print("HAREKETLİ GÜN") ("KOZAN UĞUR GÜZEL")      ("KOZAN UĞUR GÜZEL")   ("KOZAN UĞUR GÜZEL")    ("KOZAN UĞUR GÜZEL")      ("KOZAN UĞUR GÜZEL") ("KOZAN UĞUR GÜZEL")              
-("KOZAN UĞUR GÜZEL")  ("KOZAN UĞUR ")           ("KOZAN UĞUR")                               ("KOZAN UĞUR GÜZEL")                     ("KOZAN UĞUR GÜZEL")
+print("HAREKETLİ GÜN")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")       
+print("KOZAN UĞUR GÜZEL")                
+print("SEROL GÜZEL")          
+print("KOZAN UĞUR GÜZEL")    
+print("KOZAN UĞUR GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("KOZAN UĞUR GÜZEL")    
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")   
+print("SEROL GÜZEL") 
+print("KOZAN UĞUR GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROR GÜZEL")
+print("KOZAN UĞUR GÜZNL")   
+print("SEROL GÜZNL")  
+print("KOZAN UĞR GÜZNL") 
+print("SEROL GÜZNL") 
+print("KOZAN ÜĞÜR GZEL")
+print("SEROL GÜZEL")
+print("KOZAN ÜĞÜR GÜZEL")
+print("SEROL GÜZELS") 
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZELS")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
