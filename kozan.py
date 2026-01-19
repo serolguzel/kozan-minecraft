@@ -53,15 +53,15 @@ print("KOZAN UĞUR GÜZEL")
 print("SEROL GÜZEL")
 print("KOZAN UĞUR GÜZEL")
 print("SEROL GÜZELS")
-
-
-
-
-
-
-
-
-
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
 
 
 
