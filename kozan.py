@@ -62,17 +62,16 @@ print("SEROL GÜZEL")
 print("KOZAN UĞUR GÜZEL")
 print("SEROL GÜZEL")
 print("KOZAN UĞUR GÜZEL")
-
-
-
-
-
-
-
-
-
-
-
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("SEROL GÜZEL")
+print("KOZAN UĞUR GÜZEL")
+print("Serol Güzel")
+print("Kozan Uğur Güzel")
+print("Serol Güzel")
+print("Kozan Uğur Güzel")
+print("Serol Güzel")
+print("Kozan Uğur Güzel")
 
 
 

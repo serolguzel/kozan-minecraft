@@ -2,5 +2,7 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "python.formatting.provider": "none"
+    "python.formatting.provider": "none",
+    "python.defaultInterpreterPath": "C:\\Users\\serol\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
